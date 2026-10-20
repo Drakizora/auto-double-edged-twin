@@ -22,7 +22,7 @@ Running the code with the sample input should produce HTML that looks like this.
 The `src/customize.py` file is the only code file you need to modify. This section will outline the different areas to modify.
 
 ### Your Clan
-The code is set up to have different post "sides", with one Clan on the left and the other on the right. Your Clan will be on the left. On line 6, set YOUR_CLAN to either BREEZECLAN or MARSHCLAN.
+The code is set up to have different post "sides", with one Clan on the left and the other on the right. Your Clan will be on the left. On line 6, set `YOUR_CLAN` to either `BREEZECLAN` or `MARSHCLAN`.
 
 ### Custom Colors
 The list of colors is on line 74. This will specify the color of names for player characters and NPCs. 
