@@ -101,14 +101,16 @@ stardust = """
 
 
 outer = """
-<!---- COLORS
+<!-------  06. DOUBLE-EDGED [F2U] || by Drakizora
 
-    PLAYER CHARACTERS: #879CB9
-    NPCS: #C3B27B
+  -- Do not remove my credit
+  -- Do not redistribute this template
+  
+  Thank you for using! I hope you enjoy!
 
----->
+  ------->
 
-
+<!------- [ CODE START ] ------->
 <div class = "container mx-auto" style = "font-family:avenir, serif;font-size:90%;">
 
     {content}
