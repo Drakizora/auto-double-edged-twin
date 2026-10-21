@@ -20,7 +20,7 @@ def search_name(name : str):
     for n in lists[l]:
       # Does this name match what was given from Discord?
       if n in name:
-        return name, l 
+        return n, l 
 
   return "narrator", None
     
